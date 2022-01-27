@@ -1,6 +1,8 @@
-We need to print a board.
-Take in player input.
-Place their input on the board.
-Check if the game is won,tied, lost, or ongoing.
-Repeat c and d until the game has been won or tied.
-Ask if players want to play again.
+An easy-to-follow instructions to build this project.
+
+a. We need to print a board.
+b. Take in player input.
+c. Place their input on the board.
+d. Check if the game is won,tied, lost, or ongoing.
+e. Repeat c and d until the game has been won or tied.
+f. Ask if players want to play again.
